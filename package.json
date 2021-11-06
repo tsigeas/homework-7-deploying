@@ -1,0 +1,12 @@
+{
+  "name": "uni-logo-api",
+  "version": "1.0.0",
+  "description": "This simple API can be used to get a university's logo as an image file.",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
